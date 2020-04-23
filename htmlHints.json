@@ -1,8 +1,20 @@
-
+[
   {
-    "hint": "HTML stands for Hyper Text Markup Language, The largest HTML Heading is a h1",
-  
+    "hint": "HTML stands for Hyper Text Markup Language, The largest HTML Heading is a h1"
+ 
     }
+  },
+  {
+    "hint": "CSS stands for Cascading Style Sheet, % is for defining values",
+ 
+    }
+  },
+  {
+   "hint": "Number is a javascript data type, Netscape made javascript",
+ 
+    }
+  }
+]
   
 
 
