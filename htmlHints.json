@@ -1,26 +1,8 @@
 [
   {
-    "name": "Meowsy",
-    "species" : "cat",
-    "foods": {
-      "likes": ["tuna", "catnip"],
-      "dislikes": ["ham", "zucchini"]
-    }
-  },
-  {
-    "name": "Barky",
-    "species" : "dog",
-    "foods": {
-      "likes": ["bones", "carrots"],
-      "dislikes": ["tuna"]
-    }
-  },
-  {
-    "name": "Purrpaws",
-    "species" : "cat",
-    "foods": {
-      "likes": ["mice"],
-      "dislikes": ["cookies"]
+    "hint": "HTML stands for Hyper Text Markup Language, The largest HTML Heading is a h1",
+  
     }
   }
+
 ]
