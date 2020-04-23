@@ -1,20 +1,28 @@
 [
   {
-    "hint": "HTML stands for Hyper Text Markup Language, The largest HTML Heading is a h1"
- 
-    },
-  
+    "hint": "HTML stands for Hyper Text Markup Language, The largest HTML Heading is a h1",
+    "species" : "cat",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    }
+  },
   {
     "hint": "CSS stands for Cascading Style Sheet, % is for defining values",
- 
-    },
-  
+    "species" : "dog",
+    "foods": {
+      "likes": ["bones", "carrots"],
+      "dislikes": ["tuna"]
+    }
+  },
   {
-   "hint": "Number is a javascript data type, Netscape made javascript",
- 
-    },
-  
+    "hint": "Number is a javascript data type, Netscape made javascript",
+    "species" : "cat",
+    "foods": {
+      "likes": ["mice"],
+      "dislikes": ["cookies"]
+    }
+  }
 ]
-  
 
 
